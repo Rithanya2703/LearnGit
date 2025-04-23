@@ -1,1 +1,1 @@
-## GIT Tutorial ##
+## GIT Tutorial by rithanya ##
